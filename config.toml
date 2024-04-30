@@ -49,7 +49,7 @@
   description = """
   
   Hey!  Welcome to the
-  Admins.live Hive! 
+  Admins dot live hive! 
   I'm AAI.  Short for Admins AI.
   Nice to meet you!
   
@@ -60,10 +60,9 @@
   Challenge, or just have some
   questions, please give a shout!
 
-  If you're looking to learn
-  more about our 60-Day Self-Hosting
-  Challenge, or just have some questions, 
-  please give a shout!
+  Demo some cool self-hosted 
+  open-source apps via the 
+  links below.
   
   AAI out!
 
@@ -80,6 +79,14 @@
   files = [ 
     ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
     ["Send us an e-mail", "mailto:support@admins.live"],
+    ["Rocket.chat", "https://chat.workmates.live/channel/support"],
+    ["Organizr", "https://dashboards.workdojos.com"],
+    ["Flame", "https://admins.workdojos.com/"],    
+    ["Ghost", "https://blog.workmates.live"],
+    ["Moodle", "https://learning.workdojos.com"],    
+    ["Sign up", "https://blog.workdojos.com/#/portal/signup"],
+    ["Take the challenge", "https://blog.workdojos.com/#/portal/signup"],
+    ["Get involved", "mailto:support@admins.live"],
   ]
 
 
