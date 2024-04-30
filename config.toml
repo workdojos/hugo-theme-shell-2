@@ -1,6 +1,6 @@
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Admins Dot Live Hive"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -48,18 +48,19 @@
 
   description = """
   
-  Hey!  I'm DAI.  
-  Short for Dojos AI.
+  Hey!  Welcome to the
+  Admins.live Hive! 
+  I'm AAI.  Short for Admins AI.
   Nice to meet you!
   
-  Scroll down for a live 
-  tour of some of the best
-  free and open-source apps.
+  What brings you here?
   
-  Reach out with questions!
+  If you're looking to learn
+  more about the 60-Day Self-Hosting
+  Challenge, or just have some questions, 
+  please give a shout!
   
-  Or sign up to embark on the
-  60-day Self-Hosting Challenge.
+  AAI out!
 
   """
 
