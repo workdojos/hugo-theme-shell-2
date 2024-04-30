@@ -62,9 +62,7 @@
 
   Demo some cool self-hosted 
   open-source apps via the 
-  links below.
-  
-  AAI out!
+  links below.  AAI out!
 
   """
 
@@ -74,19 +72,17 @@
 
   [Params.Tree]
   use = true
-  folderName = "help"
+  folderName = "see"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
     ["Send us an e-mail", "mailto:support@admins.live"],
-    ["Rocket.chat", "https://chat.workmates.live/channel/support"],
-    ["Organizr", "https://dashboards.workdojos.com"],
-    ["Flame", "https://admins.workdojos.com/"],    
-    ["Ghost", "https://blog.workmates.live"],
-    ["Moodle", "https://learning.workdojos.com"],    
+    ["Rocket.chat demo", "https://chat.workmates.live/channel/support"],
+    ["Organizr demo", "https://dashboards.workdojos.com"],
+    ["Flame demo", "https://admins.workdojos.com/"],    
+    ["Ghost demo", "https://blog.workdojos.live"],
+    ["Moodle demo", "https://learning.workdojos.com"],    
     ["Sign up", "https://blog.workdojos.com/#/portal/signup"],
-    ["Take the challenge", "https://blog.workdojos.com/#/portal/signup"],
-    ["Get involved", "mailto:support@admins.live"],
   ]
 
 
