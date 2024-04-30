@@ -23,7 +23,7 @@
   userName = "aai"
   pcName = "admins"
   workDir = "welcome"
-  profile = "profile"
+  profile = "me"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
