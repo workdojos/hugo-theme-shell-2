@@ -21,7 +21,7 @@
   # ...
   # Note: result of the tree command
   userName = "aai"
-  pcName = "admins.live"
+  pcName = "admins"
   workDir = "welcome"
   profile = "profile"
 
@@ -55,10 +55,10 @@
   
   What brings you here?
   
-  If you're looking to learn
-  more about the 60-Day Self-Hosting
-  Challenge, or just have some questions, 
-  please give a shout!
+  If you're looking to learn more
+  about the 60-Day Self-Hosting
+  Challenge, or just have some
+  questions, please give a shout!
   
   AAI out!
 
