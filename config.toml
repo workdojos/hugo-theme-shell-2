@@ -52,9 +52,7 @@
   Admins dot live hive! 
   I'm AAI.  Short for Admins AI.
   Nice to meet you!
-  
-  What brings you here?
-  
+   
   If you're looking to learn more
   about the 60-Day Self-Hosting
   Challenge, or just have some
@@ -75,14 +73,14 @@
   folderName = "see"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
-    ["Send us an e-mail", "mailto:support@admins.live"],
-    ["Rocket.chat demo", "https://chat.workmates.live/channel/support"],
+    ["Rocket.chat demo", "https://chat.workmates.live/"],
     ["Organizr demo", "https://dashboards.workdojos.com"],
     ["Flame demo", "https://admins.workdojos.com/"],    
     ["Ghost demo", "https://blog.workdojos.live"],
     ["Moodle demo", "https://learning.workdojos.com"],    
     ["Sign up", "https://blog.workdojos.com/#/portal/signup"],
+    ["I need help", "https://chat.workmates.live/channel/support"],
+    ["Send us an e-mail", "mailto:support@admins.live"],
   ]
 
 
